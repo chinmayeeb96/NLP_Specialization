@@ -1,2 +1,2 @@
-# Coursera NLP_Specialization
+# Coursera NLP Specialization assignmenets
 Coursera NLP Specialization 
